@@ -4,6 +4,7 @@ import { View } from 'react-native';
 
 import { AuthProvider } from '@/providers/AuthProvider';
 
+//@ts-ignore
 import '../../global.css';
 
 export default function RootLayout() {
